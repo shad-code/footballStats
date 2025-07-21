@@ -195,5 +195,6 @@ frontend/
 
 Created by **@shad-code**  
 GitHub: [https://github.com/shad-code](https://github.com/shad-code)
+
 EmailId : shadan.ahmad247@gmail.com
 ---
